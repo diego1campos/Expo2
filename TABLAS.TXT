@@ -1,0 +1,3 @@
+horarios_entrega
+
+---Arturo //1 es domingo, 2 es lunes, 3 es martes, 4 es miercoles, 5 es jueves, 6 es viernes y 7 es sabado
